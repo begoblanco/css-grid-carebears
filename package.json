@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "sass": "^1.77.2"
+  },
+  "name": "css-grid-carebears",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/sass/styles.scss ./public/css/styles.css",
+    "sass-w": "sass --watch ./src/sass/styles.scss ./public/css/styles.css"
+  },
+  "author": "bego",
+  "license": "ISC"
+}
